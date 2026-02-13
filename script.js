@@ -61,7 +61,7 @@ noBtn.addEventListener("mouseover", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.innerHTML = "Rhetorical question... You're stuck with me ⸜(｡˃ ᵕ ˂ )⸝♡";
+    title.innerHTML = "Love you ⸜(｡˃ ᵕ ˂ )⸝♡";
     title.style.fontSize = "24px";
 
     catImg.src = "cat_dance.gif";
@@ -72,3 +72,4 @@ yesBtn.addEventListener("click", () => {
 
     finalText.style.display = "block";
 });
+
