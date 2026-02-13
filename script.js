@@ -62,7 +62,6 @@ noBtn.addEventListener("mouseover", () => {
 
 yesBtn.addEventListener("click", () => {
     title.innerHTML = "Love you ⸜(｡˃ ᵕ ˂ )⸝♡";
-    title.style.fontSize = "24px";
 
     catImg.src = "cat_dance.gif";
 
@@ -72,4 +71,5 @@ yesBtn.addEventListener("click", () => {
 
     finalText.style.display = "block";
 });
+
 
